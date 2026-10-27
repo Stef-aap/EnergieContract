@@ -20,6 +20,9 @@ Kosten Opbouw
 Groene Energie
 \#We willen niet alleen kosten besparen, maar als we gelijktijdig CO2 kunnen besparen is dat mooi meegenomen. Hier staat uitgelegd wat echt groen is en staan links naar de tests.
 
+Noodfonds Energie
+\#Met een inkomen van minder dan 200% van het sociaal minimum en een een hoge energie rekening, kom je in aanmerking voor deze subsidie.
+
 Vergelijk Vast
 \#Er zijn veel energievergelijkers, welke is de beste ? 
 \#Hier worden 10 vergelijkers met elkaar vergeleken en voor een vast contract komen daar de volgende conclusies uit:
