@@ -23,6 +23,9 @@ Groene Energie
 Noodfonds Energie
 \#Met een inkomen van minder dan 200% van het sociaal minimum en een een hoge energie rekening, kom je in aanmerking voor deze subsidie.
 
+Financiering
+\#Alle subsidies en leenmogelijkheden op een rijtje
+
 Vergelijk Vast
 \#Er zijn veel energievergelijkers, welke is de beste ? 
 \#Hier worden 10 vergelijkers met elkaar vergeleken en voor een vast contract komen daar de volgende conclusies uit:
@@ -91,3 +94,8 @@ Energie Management Systeem | Energie Management
 Normen EMS
 \#Normen voor laadpalen en warmtepompen zijn net uitgebracht, normen voor EMS-hoofdsysteem, thuisbatterij, zonneomvormers worden begin volgend jaar verwacht.
 
+Home Assistant
+\#Dé free en opensource standaaard, goedkoop en heel universeel. Ieder nieuw apparaat is binnen 2 maanden aan te sluiten op Home Assistant.
+
+CCurrent
+\#Relatief goedkoop systeem met vele interface mogelijkheden
