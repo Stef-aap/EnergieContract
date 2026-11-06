@@ -5,10 +5,13 @@
 \#Verder wordt (minder uitgebreid) ingegaan op <b>Energie Management Systemen (EMS)</b>.
 
 Inleiding
-\# wie, wat, waar, ook in QR-code
+\#wie, wat, waar, ook in QR-code
+
+Presentatie
+\#Hier de teksten die zijn getoond tijdens de avond. Alle teksten en plaatjes staan ook op de volgende pagina's maar dan met meer uitleg.
 
 Conclusies
-\# ...
+\#...
 
 Energie Contracten
 \#Hier wordt een overzicht gegeven van de verschillende energiecontracten en worden de meest belangrijke energiecontracten nader toegelicht.
